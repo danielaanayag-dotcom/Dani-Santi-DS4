@@ -1,0 +1,38 @@
+C:\Users\yisse\source\repos\Dani-Santi-DS4\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\yisse\source\repos\Dani-Santi-DS4\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Form1.resources
+C:\Users\yisse\source\repos\Dani-Santi-DS4\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\yisse\source\repos\Dani-Santi-DS4\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.cache
+C:\Users\yisse\source\repos\Dani-Santi-DS4\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\yisse\source\repos\Dani-Santi-DS4\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\yisse\source\repos\Dani-Santi-DS4\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\yisse\source\repos\Dani-Santi-DS4\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\yisse\source\repos\Dani-Santi-DS4\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\yisse\source\repos\Dani-Santi-DS4\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb
+C:\Users\yisse\source\repos\Dani-Santi-DS4\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe.config
+C:\Users\santy\Documents\Universidad\2do año\II Semestre\Desarrollo Software IV\Calculadora\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\santy\Documents\Universidad\2do año\II Semestre\Desarrollo Software IV\Calculadora\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\santy\Documents\Universidad\2do año\II Semestre\Desarrollo Software IV\Calculadora\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\santy\Documents\Universidad\2do año\II Semestre\Desarrollo Software IV\Calculadora\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\santy\Documents\Universidad\2do año\II Semestre\Desarrollo Software IV\Calculadora\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Form1.resources
+C:\Users\santy\Documents\Universidad\2do año\II Semestre\Desarrollo Software IV\Calculadora\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\santy\Documents\Universidad\2do año\II Semestre\Desarrollo Software IV\Calculadora\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.cache
+C:\Users\santy\Documents\Universidad\2do año\II Semestre\Desarrollo Software IV\Calculadora\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\santy\Documents\Universidad\2do año\II Semestre\Desarrollo Software IV\Calculadora\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\santy\Documents\Universidad\2do año\II Semestre\Desarrollo Software IV\Calculadora\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb
+C:\Users\santy\Documents\Universidad\2do año\II Semestre\Desarrollo Software IV\Calculadora\Proyecto1\Proyecto1\obj\Debug\Proyecto1.FrmHistorial.resources
+C:\Users\yisse\Downloads\Calculadora con historial\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\yisse\Downloads\Calculadora con historial\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe.config
+C:\Users\yisse\Downloads\Calculadora con historial\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\yisse\Downloads\Calculadora con historial\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb
+C:\Users\liang\Downloads\Calculadora con historial\Calculadora con historial\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\liang\Downloads\Calculadora con historial\Calculadora con historial\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\liang\Downloads\Calculadora con historial\Calculadora con historial\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\liang\Downloads\Calculadora con historial\Calculadora con historial\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\liang\Downloads\Calculadora con historial\Calculadora con historial\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe.config
+C:\Users\liang\Downloads\Calculadora con historial\Calculadora con historial\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Form1.resources
+C:\Users\liang\Downloads\Calculadora con historial\Calculadora con historial\Proyecto1\Proyecto1\obj\Debug\Proyecto1.FrmHistorial.resources
+C:\Users\liang\Downloads\Calculadora con historial\Calculadora con historial\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\liang\Downloads\Calculadora con historial\Calculadora con historial\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.cache
+C:\Users\liang\Downloads\Calculadora con historial\Calculadora con historial\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\liang\Downloads\Calculadora con historial\Calculadora con historial\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\liang\Downloads\Calculadora con historial\Calculadora con historial\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb
