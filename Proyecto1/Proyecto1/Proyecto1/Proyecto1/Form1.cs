@@ -152,7 +152,7 @@ namespace Proyecto1
                     return result.ToString(CultureInfo.InvariantCulture);
                 });
 
-                // Evaluar el resto de la expresión
+                // Evaluamos expresion del textbox
                 var resultado = new System.Data.DataTable().Compute(expresion, null);
                 txtScreen.Text = resultado.ToString();
 

@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\liang\\Downloads\\Calculadora con historial\\Calculadora con historial\\Proyecto1\\",
+  "WorkspaceRootPath": "C:\\Users\\santy\\Documents\\Universidad\\2do a\u00F1o\\II Semestre\\Desarrollo Software IV\\Proyecto Calculadora\\Dani-Santi-DS4\\Proyecto1\\Proyecto1\\Proyecto1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|c:\\users\\liang\\downloads\\calculadora con historial\\calculadora con historial\\proyecto1\\proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|c:\\users\\santy\\documents\\universidad\\2do a\u00F1o\\ii semestre\\desarrollo software iv\\proyecto calculadora\\dani-santi-ds4\\proyecto1\\proyecto1\\proyecto1\\proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|C:\\Users\\liang\\Downloads\\Calculadora con historial\\Calculadora con historial\\Proyecto1\\Proyecto1\\FrmHistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|solutionrelative:Proyecto1\\FrmHistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|c:\\users\\liang\\downloads\\calculadora con historial\\calculadora con historial\\proyecto1\\proyecto1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|C:\\Users\\liang\\Downloads\\Calculadora con historial\\Calculadora con historial\\Proyecto1\\Proyecto1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|C:\\Users\\santy\\Documents\\Universidad\\2do a\u00F1o\\II Semestre\\Desarrollo Software IV\\Proyecto Calculadora\\Dani-Santi-DS4\\Proyecto1\\Proyecto1\\Proyecto1\\Proyecto1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|solutionrelative:Proyecto1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|C:\\Users\\liang\\Downloads\\Calculadora con historial\\Calculadora con historial\\Proyecto1\\proyecto1\\frmhistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|C:\\Users\\santy\\Documents\\Universidad\\2do a\u00F1o\\II Semestre\\Desarrollo Software IV\\Proyecto Calculadora\\Dani-Santi-DS4\\Proyecto1\\Proyecto1\\Proyecto1\\proyecto1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|C:\\Users\\santy\\Documents\\Universidad\\2do a\u00F1o\\II Semestre\\Desarrollo Software IV\\Proyecto Calculadora\\Dani-Santi-DS4\\Proyecto1\\Proyecto1\\Proyecto1\\Proyecto1\\FrmHistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|solutionrelative:Proyecto1\\FrmHistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|C:\\Users\\santy\\Documents\\Universidad\\2do a\u00F1o\\II Semestre\\Desarrollo Software IV\\Proyecto Calculadora\\Dani-Santi-DS4\\Proyecto1\\Proyecto1\\Proyecto1\\proyecto1\\frmhistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C1396536-627C-4741-94E7-B73EFD49A2C7}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\frmhistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,19 +30,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\santy\\Documents\\Universidad\\2do a\u00F1o\\II Semestre\\Desarrollo Software IV\\Proyecto Calculadora\\Dani-Santi-DS4\\Proyecto1\\Proyecto1\\Proyecto1\\Proyecto1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\santy\\Documents\\Universidad\\2do a\u00F1o\\II Semestre\\Desarrollo Software IV\\Proyecto Calculadora\\Dani-Santi-DS4\\Proyecto1\\Proyecto1\\Proyecto1\\Proyecto1\\Form1.Designer.cs",
+              "RelativeToolTip": "Proyecto1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T20:40:14.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\santy\\Documents\\Universidad\\2do a\u00F1o\\II Semestre\\Desarrollo Software IV\\Proyecto Calculadora\\Dani-Santi-DS4\\Proyecto1\\Proyecto1\\Proyecto1\\Proyecto1\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto1\\Form1.cs",
+              "ToolTip": "C:\\Users\\santy\\Documents\\Universidad\\2do a\u00F1o\\II Semestre\\Desarrollo Software IV\\Proyecto Calculadora\\Dani-Santi-DS4\\Proyecto1\\Proyecto1\\Proyecto1\\Proyecto1\\Form1.cs",
+              "RelativeToolTip": "Proyecto1\\Form1.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAIAwwK8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T00:37:09.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\liang\\Downloads\\Calculadora con historial\\Calculadora con historial\\Proyecto1\\Proyecto1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\santy\\Documents\\Universidad\\2do a\u00F1o\\II Semestre\\Desarrollo Software IV\\Proyecto Calculadora\\Dani-Santi-DS4\\Proyecto1\\Proyecto1\\Proyecto1\\Proyecto1\\Form1.cs",
               "RelativeDocumentMoniker": "Proyecto1\\Form1.cs",
-              "ToolTip": "C:\\Users\\liang\\Downloads\\Calculadora con historial\\Calculadora con historial\\Proyecto1\\Proyecto1\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\santy\\Documents\\Universidad\\2do a\u00F1o\\II Semestre\\Desarrollo Software IV\\Proyecto Calculadora\\Dani-Santi-DS4\\Proyecto1\\Proyecto1\\Proyecto1\\Proyecto1\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Proyecto1\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T20:54:00.878Z",
@@ -50,54 +72,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\liang\\Downloads\\Calculadora con historial\\Calculadora con historial\\Proyecto1\\Proyecto1\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Proyecto1\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\liang\\Downloads\\Calculadora con historial\\Calculadora con historial\\Proyecto1\\Proyecto1\\Form1.Designer.cs",
-              "RelativeToolTip": "Proyecto1\\Form1.Designer.cs",
-              "ViewState": "AgIAAFoBAAAAAAAAAAAYwHgBAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T20:40:14.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\liang\\Downloads\\Calculadora con historial\\Calculadora con historial\\Proyecto1\\Proyecto1\\Form1.cs",
-              "RelativeDocumentMoniker": "Proyecto1\\Form1.cs",
-              "ToolTip": "C:\\Users\\liang\\Downloads\\Calculadora con historial\\Calculadora con historial\\Proyecto1\\Proyecto1\\Form1.cs",
-              "RelativeToolTip": "Proyecto1\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T00:37:09.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "FrmHistorial.cs",
-              "DocumentMoniker": "C:\\Users\\liang\\Downloads\\Calculadora con historial\\Calculadora con historial\\Proyecto1\\Proyecto1\\FrmHistorial.cs",
+              "DocumentMoniker": "C:\\Users\\santy\\Documents\\Universidad\\2do a\u00F1o\\II Semestre\\Desarrollo Software IV\\Proyecto Calculadora\\Dani-Santi-DS4\\Proyecto1\\Proyecto1\\Proyecto1\\Proyecto1\\FrmHistorial.cs",
               "RelativeDocumentMoniker": "Proyecto1\\FrmHistorial.cs",
-              "ToolTip": "C:\\Users\\liang\\Downloads\\Calculadora con historial\\Calculadora con historial\\Proyecto1\\Proyecto1\\FrmHistorial.cs",
+              "ToolTip": "C:\\Users\\santy\\Documents\\Universidad\\2do a\u00F1o\\II Semestre\\Desarrollo Software IV\\Proyecto Calculadora\\Dani-Santi-DS4\\Proyecto1\\Proyecto1\\Proyecto1\\Proyecto1\\FrmHistorial.cs",
               "RelativeToolTip": "Proyecto1\\FrmHistorial.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwDEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T17:58:48.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T17:58:48.47Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "FrmHistorial.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\liang\\Downloads\\Calculadora con historial\\Calculadora con historial\\Proyecto1\\Proyecto1\\FrmHistorial.cs",
+              "DocumentMoniker": "C:\\Users\\santy\\Documents\\Universidad\\2do a\u00F1o\\II Semestre\\Desarrollo Software IV\\Proyecto Calculadora\\Dani-Santi-DS4\\Proyecto1\\Proyecto1\\Proyecto1\\Proyecto1\\FrmHistorial.cs",
               "RelativeDocumentMoniker": "Proyecto1\\FrmHistorial.cs",
-              "ToolTip": "C:\\Users\\liang\\Downloads\\Calculadora con historial\\Calculadora con historial\\Proyecto1\\Proyecto1\\FrmHistorial.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\santy\\Documents\\Universidad\\2do a\u00F1o\\II Semestre\\Desarrollo Software IV\\Proyecto Calculadora\\Dani-Santi-DS4\\Proyecto1\\Proyecto1\\Proyecto1\\Proyecto1\\FrmHistorial.cs [Dise\u00F1o]",
               "RelativeToolTip": "Proyecto1\\FrmHistorial.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T17:55:56.231Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-28T17:55:56.231Z"
             }
           ]
         }
